@@ -1,4 +1,4 @@
-print('Olá Lucas, quando você nasceu?')
+print('Olá, quando você nasceu?')
 dia = input('Dia: ')
 mes = input('Mês: ')
 ano = input('Ano: ')
